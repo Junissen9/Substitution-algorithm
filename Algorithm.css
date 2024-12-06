@@ -1,0 +1,23 @@
+h1 {
+  font-size: 20pt;
+  font-family: Arial;
+  color: #4B0082;
+}
+
+body {
+  background-color: #FAEBD7;
+}
+
+p {
+  font-size: 13pt;
+}
+
+canvas {
+  width: 380px;
+  background-color: #7B68EE;
+  border: 2px solid #A9A9A9;
+}
+
+input {
+  font-size: 12pt;
+}
